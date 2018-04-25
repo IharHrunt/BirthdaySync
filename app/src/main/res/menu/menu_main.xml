@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.rsend.myapp16.MainActivity">
+<item
+    android:id="@+id/menu_sync_now"
+    android:orderInCategory="100"
+    android:icon="@drawable/ic_sync_24"
+    android:title="@string/menu_sync_now"
+    app:showAsAction="ifRoom" />
+<item
+    android:id="@+id/menu_settings"
+    android:orderInCategory="101"
+    android:icon="@drawable/ic_setting_24"
+    android:title="@string/menu_settings"
+app:showAsAction="ifRoom" />
+<item
+    android:id="@+id/menu_remove_all"
+    android:orderInCategory="102"
+    android:icon="@drawable/ic_delete_24"
+    android:title="@string/menu_remove_all"
+    app:showAsAction="ifRoom"/>
+</menu>

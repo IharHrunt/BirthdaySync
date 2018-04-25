@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="array_year_repeat_entry_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array
+        name="array_year_repeat_entry">
+        <item>1 год</item>
+        <item>2 года</item>
+        <item>3 года</item>
+        <item>4 года</item>
+        <item>5 лет</item>
+        <item>6 лет</item>
+        <item>7 лет</item>
+        <item>8 лет</item>
+        <item>9 лет</item>
+        <item>10 лет</item>
+    </string-array>
+    <string-array
+        name="array_reminder_entry_value">
+        <item>Off</item>
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array
+        name="array_reminder_entry">
+        <item>Выключено</item>
+        <item>0 минут</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часов</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array
+        name="array_type_entry_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array
+        name="array_type_entry">
+        <item>Особое событие</item>
+        <item>Юбилей</item>
+        <item>Другое событие</item>
+        <item>День рождения</item>
+    </string-array>
+</resources>

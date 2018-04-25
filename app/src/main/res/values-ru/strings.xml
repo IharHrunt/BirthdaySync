@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Birthday Sync</string>
+    <string name="text_view_main">Синхронизируйте с помощью BirthdaySync события из Контактов в Календарь</string>
+    <string name="progress_bar">"Выполняется..."</string>
+    <string name="event_date">"Дата"</string>
+
+    <!-- event types -->
+    <string name="type_event_custom">Особое событие</string>
+    <string name="type_event_anniversary">Юбилей</string>
+    <string name="type_event_other">Другое событие</string>
+    <string name="type_event_birthday">День рождения</string>
+
+    <!-- menu items-->
+    <string name="menu_sync_now">Синхронизировать</string>
+    <string name="menu_remove_all">Удалить события</string>
+    <string name="menu_settings">Настройки</string>
+
+    <!-- buttons -->
+    <string name="btn_ok">ОК</string>
+    <string name="btn_set">ОК</string>
+    <string name="btn_cancel">ОТМЕНА</string>
+
+    <!-- alerts -->
+    <string name="alert_message_add">Синхронизировать события из Контактов в Календарь?</string>
+    <string name="alert_message_remove">Удалить события из Календаря?</string>
+    <string name="alert_message_warning">Проверьте, пожалуйста, настройки перед первым запуском.</string>
+    <string name="alert_message_wait">Подождите окончания запущеного процесса...</string>
+    <string name="alert_total_insert">"Добавлено событий:  "</string>
+    <string name="alert_total_update">"Обновлено событий:  "</string>
+    <string name="alert_total_delete">"Удалено событий:  "</string>
+
+    <!-- preferences -->
+    <string name="pref_category_first">Основные настройки события</string>
+    <string name="pref_title_list_calendar_number">Имя календаря</string>
+    <string name="pref_calendar_noname">Календарь устройства</string>
+    <string name="pref_title_time_picker">Время начала события</string>
+    <string name="pref_title_list_type">Виды события</string>
+    <string name="pref_type_off">Не выбрано</string>
+    <string name="pref_title_list_year_repeat">Повторение события</string>
+    <string name="pref_category_second">Настройки напоминаний события</string>
+    <string name="pref_reminder_off">Off</string>
+    <string name="pref_title_list_reminder1">Напоминание №1</string>
+    <string name="pref_summary_list_reminder1">Выключено</string>
+    <string name="pref_title_list_reminder2">Напоминание №2</string>
+    <string name="pref_summary_list_reminder2">Выключено</string>
+    <string name="pref_title_list_reminder3">Напоминание №3</string>
+    <string name="pref_summary_list_reminder3">Выключено</string>
+</resources>

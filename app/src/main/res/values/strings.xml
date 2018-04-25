@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Birthday Sync</string>
+    <string name="text_view_main">Sync events from Contacts to Calendar with BirthdaySync</string>
+    <string name="progress_bar">"Executing..."</string>
+    <string name="event_date">"Date"</string>
+
+    <!-- event types -->
+    <string name="type_event_custom">Custom event</string>
+    <string name="type_event_anniversary">Anniversary</string>
+    <string name="type_event_other">Other event</string>
+    <string name="type_event_birthday">Birthday</string>
+
+    <!-- menu items-->
+    <string name="menu_sync_now">Sync events</string>
+    <string name="menu_remove_all">Remove events</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- buttons -->
+    <string name="btn_ok">OK</string>
+    <string name="btn_set">OK</string>
+    <string name="btn_cancel">CANCEL</string>
+
+    <!-- alerts -->
+    <string name="alert_message_add">Sync events from Contacts to Calendar?</string>
+    <string name="alert_message_remove">Remove events from Calendar?</string>
+    <string name="alert_message_warning">Please check settings before you start.</string>
+    <string name="alert_message_wait">Please wait for a while the process will complete...</string>
+    <string name="alert_total_insert">"Inserted events:  "</string>
+    <string name="alert_total_update">"Updated events:  "</string>
+    <string name="alert_total_delete">"Deleted  events:  "</string>
+
+    <!-- preferences -->
+    <string name="pref_category_first">Event general settings</string>
+    <string name="pref_title_list_calendar_number">Calendar name</string>
+    <string name="pref_calendar_noname">phone/tablet calendar</string>
+    <string name="pref_title_time_picker">Event time</string>
+    <string name="pref_title_list_type">Event types</string>
+    <string name="pref_type_off">Nothing selected</string>
+    <string name="pref_title_list_year_repeat">Repetition</string>
+    <string name="pref_category_second">Event reminder settings</string>
+    <string name="pref_reminder_off">Off</string>
+    <string name="pref_title_list_reminder1">Event reminder 1</string>
+    <string name="pref_summary_list_reminder1">Off</string>
+    <string name="pref_title_list_reminder2">Event reminder 2</string>
+    <string name="pref_summary_list_reminder2">Off</string>
+    <string name="pref_title_list_reminder3">Event reminder 3</string>
+    <string name="pref_summary_list_reminder3">Off</string>
+</resources>
